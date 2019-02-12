@@ -48,11 +48,12 @@ Still working on trying to make emulator work.
 ## Flix Part 2
 
 ### User Stories
+my emulator is still broken
 
 #### REQUIRED (10pts)
 
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -65,13 +66,15 @@ Still working on trying to make emulator work.
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+https://i.imgur.com/Aw5Dn32.gif
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/Aw5Dn32.gif" width=250><br>
 
 ### Notes
 
 Describe any challenges encountered while building the app.
+
+In the process of creating genymotion, emulator still would not run even tho i troubleshooted it multiple times.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
