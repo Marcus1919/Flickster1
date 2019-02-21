@@ -63,6 +63,8 @@ my emulator is still broken
 
 ### App Walkthough GIF
 
+http://i.imgur.com/qWfr3xp.gif
+
 https://i.imgur.com/Mxr5VW6.gif
 
 ### Notes
